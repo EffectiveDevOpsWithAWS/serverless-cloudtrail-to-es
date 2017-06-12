@@ -1,0 +1,4 @@
+boto3==1.4.4
+requests==2.11.1
+elasticsearch==5.4.0
+aws_requests_auth==0.3.2
